@@ -2,6 +2,7 @@
 /**
  *
  * main - main block
+ * Description: 'use puts function to print'
  * Return: 0
  *
  */
