@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - entry point of the program
  *
- * descritption: use the main program to print some intructions
- * print the last numbers of a variable n
+ * Descritption: use the main program to print the last digit of a variable n
+ *
  *return: 0 if successful
  */
 
