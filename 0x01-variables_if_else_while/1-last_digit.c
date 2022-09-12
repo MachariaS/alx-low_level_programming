@@ -10,7 +10,7 @@
  *return: 0 if successful
  */
 
-int main(void)
+int main()
 {
 	int n;
 
