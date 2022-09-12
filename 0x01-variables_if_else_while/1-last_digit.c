@@ -7,10 +7,10 @@
  *
  * Descritption: use the main program to print the last digit of a variable n
  *
- *return: 0 if successful
+ * Return: 0
  */
 
-int main()
+int main(void)
 {
 	int n;
 
