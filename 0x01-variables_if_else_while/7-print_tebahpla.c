@@ -3,7 +3,7 @@
  * main - starting point
  *
  * Description: prints the lowercase alphabet in reverse, \n
- * return: 0 if successfull
+ * Return: 0
  */
 
 int main(void)
