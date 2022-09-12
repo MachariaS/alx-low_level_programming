@@ -3,6 +3,7 @@
  * main - entry point
  *
  * Description: prints all the numbers of base 16 in lowercase,\n
+ * Return: 0
  */
 
 int main(void)
