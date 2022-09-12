@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- *
  * main - main block
  * Description: 'use puts function to print'
- * Return: 0 (suceess)
- *
+ * Return: 0
  */
 
 int main(void)
