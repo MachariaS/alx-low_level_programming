@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign - entry point 
+ * print_sign - entry point
  *
  * @i: The input number as an integer.
  * Return: 1 is greater than zero. 0 is zero.
