@@ -2,7 +2,7 @@
 
 /**
  * add - sum a + b
- * 
+ *
  * @a: integer one
  * @b: integer two
  * Return: result
