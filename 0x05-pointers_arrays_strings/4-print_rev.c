@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <string.h>
 #include "main.h"
 
 /**
@@ -7,9 +9,9 @@
  */
 void print_rev(char *r)
 {
-	int lenght = strlen(r);
+	int len = strlen(r);
 
-	while (lenght--)
-		_putchar(*(r + lenght));
+	while (len--)
+		putchar(*(r + len));
 	putchar('\n');
 }
