@@ -20,6 +20,6 @@ int main(void)
 		i += j;
 		putchar(j);
 	}
-	putchar(2772 - x);
+	putchar(2772 - i);
 	return (0);
 }

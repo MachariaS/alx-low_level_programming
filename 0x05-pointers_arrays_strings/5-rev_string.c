@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * rev-string - reversing a string
+ * rev_string - reversing a string
  * Description: function that reverses a string
  * @s: string to be reversed
  * return: nothing
