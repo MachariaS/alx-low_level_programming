@@ -5,7 +5,7 @@
  * alloc_grid -function that creates a 2d array of integer
  * @width: width of the grid
  * @height:height of the grid
- * Return: 0 if successful Null if unsuccessful 
+ * Return: 0 if successful Null if unsuccessful
  */
 
 int **alloc_grid(int width, int height)
