@@ -1,0 +1,3 @@
+trlen(text_content));
+
+		if (wrote == -1)
